@@ -12,7 +12,7 @@ The `exercise1.py` file contains the definition of a `Vehicle` class with `max_s
 
 In the `exercise2.py` file, the `Rectangle` class is defined, representing a rectangle with length and width attributes. The class also includes methods to calculate the perimeter and area of the rectangle, as well as a method to display the details of the rectangle.
 
-## Exercise 3: More Advanced Class with Attributes and Methods
+## Exercise 3: More Advanced Class with Attributes and Methods:
 
 The `exercise3.py` file introduces the `BankAccount` class, representing a bank account. The class includes methods for managing deposits, withdrawals, transfers, and applying bank fees. It also implements methods for displaying account details and comparing bank accounts by balance.
 
