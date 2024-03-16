@@ -8,7 +8,7 @@ This repository contains a series of practical exercises to practice Object-Orie
 
 The `exercise1.py` file contains the definition of a `Vehicle` class with `max_speed` and `mileage` attributes, along with two methods: `get_max_speed()` and `increase_mileage(ammount_to_increase)`. This exercise demonstrates how to create a basic class and work with its attributes and methods.
 
-## Exercise 2: Class with Attributes and Methods
+## Exercise 2: Class with Attributes and Methods:
 
 In the `exercise2.py` file, the `Rectangle` class is defined, representing a rectangle with length and width attributes. The class also includes methods to calculate the perimeter and area of the rectangle, as well as a method to display the details of the rectangle.
 
