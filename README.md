@@ -4,7 +4,7 @@ This repository contains a series of practical exercises to practice Object-Orie
 
 ![Python Logo](https://github.com/MontielAguilar/29-OPP-Python/blob/main/python-logo.png)
 
-## Exercise 1: Basic Class with Attributes and Basic Methods
+## Exercise 1: Basic Class with Attributes and Basic Methods:
 
 The `exercise1.py` file contains the definition of a `Vehicle` class with `max_speed` and `mileage` attributes, along with two methods: `get_max_speed()` and `increase_mileage(ammount_to_increase)`. This exercise demonstrates how to create a basic class and work with its attributes and methods.
 
