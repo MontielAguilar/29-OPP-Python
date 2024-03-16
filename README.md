@@ -16,7 +16,7 @@ In the `exercise2.py` file, the `Rectangle` class is defined, representing a rec
 
 The `exercise3.py` file introduces the `BankAccount` class, representing a bank account. The class includes methods for managing deposits, withdrawals, transfers, and applying bank fees. It also implements methods for displaying account details and comparing bank accounts by balance.
 
-## Exercise 4: Class Inheritance
+## Exercise 4: Class Inheritance:
 
 In `exercise4.py`, an example of class inheritance in Python is shown. The `Vehicle` class is defined as a base class and the `Bus` class as a child class inheriting from `Vehicle`. The `fare()` method is overridden to apply an additional fee for buses.
 
