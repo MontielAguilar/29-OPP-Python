@@ -24,7 +24,7 @@ In `exercise4.py`, an example of class inheritance in Python is shown. The `Vehi
 
 The `exercise5.py` file implements an interactive calculator in Python that handles user input errors using exceptions. The calculator can perform basic arithmetic operations and handle errors such as incorrect formulas or division by zero.
 
-## Exercise 6: Further Exception Handling
+## Exercise 6: Further Exception Handling:
 
 In `exercise6.py`, the exception handling from the previous exercise is extended. Child classes of `FormulaError` are created to handle specific errors, such as incorrect numeric values, invalid operators, and incorrect number of arguments.
 
