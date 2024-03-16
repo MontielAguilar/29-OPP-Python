@@ -20,7 +20,7 @@ The `exercise3.py` file introduces the `BankAccount` class, representing a bank 
 
 In `exercise4.py`, an example of class inheritance in Python is shown. The `Vehicle` class is defined as a base class and the `Bus` class as a child class inheriting from `Vehicle`. The `fare()` method is overridden to apply an additional fee for buses.
 
-## Exercise 5: Exception Handling
+## Exercise 5: Exception Handling:
 
 The `exercise5.py` file implements an interactive calculator in Python that handles user input errors using exceptions. The calculator can perform basic arithmetic operations and handle errors such as incorrect formulas or division by zero.
 
